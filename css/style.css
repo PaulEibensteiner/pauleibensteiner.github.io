@@ -1,0 +1,55 @@
+/*Toggles*/
+
+.description {
+	display: none;
+}
+
+/*
+div {
+	border: black solid 1px;
+}
+*/
+
+#log {
+		color: red;
+	display: none;
+}
+
+/*all document stuff*/
+
+body {
+	font-family: 'Vollkorn', serif;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#wrapper {
+	margin: 3em;
+}
+
+/*elements*/
+
+.content {
+	margin: 1em 0;
+}
+
+h1 {
+	margin-bottom: 1em;
+}
+
+a {
+		text-decoration: none;
+		color: black;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+	padding: 1em;
+	margin: 0;
+	text-transform: uppercase;
+	font-family: 'Josefin Sans', sans-serif;
+}

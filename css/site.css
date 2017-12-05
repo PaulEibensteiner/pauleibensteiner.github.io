@@ -1,0 +1,28 @@
+.siteheader {
+	position: relative;
+}
+
+.siteimg {
+	width: 100vw;
+	margin-left: -3em;
+	margin-bottom: 2em;
+}
+
+.sitetitle {
+	position: absolute;
+	left: 50%;
+	top: 40%;
+	transform: translate(-50%, -50%);
+	font-size: 100%;
+	font-size: 3em;
+	text-transform: uppercase;
+	letter-spacing: 1em;
+	color: white;
+}
+
+.fullheight {
+	height: 200vh;
+}
+
+style="color:#ffffff;"
+style="color:{{ $main_colour }};"

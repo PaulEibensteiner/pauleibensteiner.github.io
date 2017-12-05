@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PaulsBlog</title>
+    <link>https://pauleibensteiner.github.io/</link>
+    <description>Recent content on PaulsBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Oct 2017 12:10:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pauleibensteiner.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zweiter Post</title>
+      <link>https://pauleibensteiner.github.io/blog/2post/</link>
+      <pubDate>Mon, 23 Oct 2017 12:10:00 +0000</pubDate>
+      
+      <guid>https://pauleibensteiner.github.io/blog/2post/</guid>
+      <description>I just want to see how a second post would look like</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://pauleibensteiner.github.io/sites/about/</link>
+      <pubDate>Mon, 23 Oct 2017 12:10:00 +0000</pubDate>
+      
+      <guid>https://pauleibensteiner.github.io/sites/about/</guid>
+      <description>Layout &amp;amp; Grafikdesign Content</description>
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>https://pauleibensteiner.github.io/sites/work/</link>
+      <pubDate>Mon, 23 Oct 2017 12:10:00 +0000</pubDate>
+      
+      <guid>https://pauleibensteiner.github.io/sites/work/</guid>
+      <description>photovideo Content</description>
+    </item>
+    
+    <item>
+      <title>Erster Post</title>
+      <link>https://pauleibensteiner.github.io/blog/firstblog/</link>
+      <pubDate>Mon, 23 Oct 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://pauleibensteiner.github.io/blog/firstblog/</guid>
+      <description>This is a cool first post!</description>
+    </item>
+    
+  </channel>
+</rss>
