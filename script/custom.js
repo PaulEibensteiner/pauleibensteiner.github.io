@@ -22,22 +22,22 @@
 								TweenMax.to("#outline", 0.3, {rotation:r+"_short", svgOrigin:"250 650"});
 								//link aendern der ausgeloest wird
 								if (-90 < r && r < 30) {
-										document.getElementById('background').setAttribute('href', 'sites/work/');
-										document.getElementById("work").style.textDecoration = "underline";
-										document.getElementById("blog").style.textDecoration = "none";
-										document.getElementById("about").style.textDecoration = "none";
+										document.getElementById('background').setAttribute('href', 'sites/fotovideo/');
+										document.getElementById("fotovideo").style.textDecoration = "underline";
+										document.getElementById("aboutmenu").style.textDecoration = "none";
+										document.getElementById("graphiclayout").style.textDecoration = "none";
 								}
 								else if (r > 30 && r < 160) {
-										document.getElementById('background').setAttribute('href', '#posts');
-										document.getElementById("work").style.textDecoration = "none";
-										document.getElementById("blog").style.textDecoration = "underline";
-										document.getElementById("about").style.textDecoration = "none";
+										document.getElementById('background').setAttribute('href', '#about');
+										document.getElementById("fotovideo").style.textDecoration = "none";
+										document.getElementById("aboutmenu").style.textDecoration = "underline";
+										document.getElementById("graphiclayout").style.textDecoration = "none";
 								}
 								else {
-										document.getElementById('background').setAttribute('href', 'sites/about/');
-										document.getElementById("work").style.textDecoration = "none";
-										document.getElementById("blog").style.textDecoration = "none";
-										document.getElementById("about").style.textDecoration = "underline";
+										document.getElementById('background').setAttribute('href', 'sites/graphiclayout/');
+										document.getElementById("fotovideo").style.textDecoration = "none";
+										document.getElementById("aboutmenu").style.textDecoration = "none";
+										document.getElementById("graphiclayout").style.textDecoration = "underline";
 								}
 
 

@@ -21,13 +21,13 @@ svg {
 		margin-top: 5%;
 }
 
-#about {
+#graphiclayout {
     position: absolute;
     top: 0;
   	transform: translate(-50%, 0%);
 }
 
-#work {
+#fotovideo {
     position: absolute;
     right: 0;
   	transform: translate(50%, 0%);
